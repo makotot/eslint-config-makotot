@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-makotot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makotot/eslint-config-makotot.git"
+  },
+  "author": "makotot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makotot/eslint-config-makotot/issues"
+  },
+  "homepage": "https://github.com/makotot/eslint-config-makotot#readme"
+}
