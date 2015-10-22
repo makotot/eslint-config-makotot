@@ -21,7 +21,7 @@
     "strip-json-comments": "^1.0.4"
   },
   "devDependencies": {
-    "eslint": "^1.6.0",
+    "eslint": "^1.7.3",
     "release-it": "^2.3.1"
   },
   "keywords": [
